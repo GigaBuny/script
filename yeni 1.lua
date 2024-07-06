@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Agalar Hub",
+   Name = "Agalar",
    LoadingTitle = "Loading...",
    LoadingSubtitle = "by BunyoTr",
    ConfigurationSaving = {
